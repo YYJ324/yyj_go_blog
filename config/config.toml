@@ -1,0 +1,18 @@
+[view]
+Title = "yyj个人博客"
+Description = "golang学习"
+Logo = "/resource/images/favicon.png"
+Navigation = ["首页","/", "GO语言","/golang", "归档","/pigeonhole", "关于","/about"]
+Bilibili = "https://space.bilibili.com/30707572?spm_id_from=333.1007.0.0"
+Zhihu = "https://www.zhihu.com/people/ma-shen-zhi-lu"
+Avatar = "/resource/images/avator.png"
+UserName = "一顿只吃一两米"
+UserDesc = "多行少言"
+[system]
+CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
+QiniuAccessKey = "jBATpVmiVxMMHPGmYBo8zh1WMKJbuyQjiUFPOMSs"
+QiniuSecretKey = "kdW6iXF0AK-uBvI0QdxRWnxadPnBhO9LguKwoIvU"
+Valine = true
+ValineAppid = "L3I12IbyZszeczF4fwmpO4eL-gzGzoHsz"
+ValineAppkey = "7xdUpjBBpKlBFInFRsWRO6PY"
+ValineServerURL = "GnXuvbe6f83II01kV9TLtw8t"
